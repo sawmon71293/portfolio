@@ -41,8 +41,7 @@ const Contact = () => {
             <h4>Line</h4>
             <h5>+66839953933</h5>
             <a
-              href="https://api.whatsapp.com/send?phone=+959251275847"
-              target="_blank"
+              href="https://line.me/ti/p/gn-nb7Cw_P"
               rel="noreferrer"
             >
               Send a message
